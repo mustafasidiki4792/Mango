@@ -8,8 +8,8 @@ from telegram.ext import (
 )
 
 # --- Bot Configurations ---
-TELEGRAM_BOT_TOKEN = '7343295464:AAEM7vk5K3cNXAywZC_Q11wmMzMu4gk09PU'  # Replace with your actual bot token
-ALLOWED_USER_ID = 6218253783  # Admin user ID
+TELEGRAM_BOT_TOKEN = '7831614064:AAHfRsn63Lladwtik3IJdDQGYOl2XDXeT7g'  # Replace with your actual bot token
+ALLOWED_USER_ID = 6103581760  # Admin user ID
 bot_access_free = True  # Set to True to make the bot free for all users
 MIN_BALANCE = 1  # Minimum balance required for an attack
 DEFAULT_DURATION = 240  # Default attack duration in seconds
